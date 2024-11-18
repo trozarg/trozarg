@@ -11,4 +11,3 @@
 * [SceneFour](part-i/scenefour.md)
 * [SceneFive](part-i/scenefive.md)
 * [SceneSix](part-i/scenesix.md)
-* [SceneSeven](part-i/sceneseven.md)
