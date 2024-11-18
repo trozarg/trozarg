@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Shika](README.md)
+* [Shika Book One](README.md)
 
 ## Chapter One
 
