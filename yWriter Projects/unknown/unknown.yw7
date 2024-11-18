@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<YWRITER7>
+	<PROJECT>
+		<Ver>7</Ver>
+		<SavedWith>7.1.2.4</SavedWith>
+		<SavedOn>2024-11-18 10:30:33</SavedOn>
+		<Title><![CDATA[unknown]]></Title>
+		<AuthorName><![CDATA[James Lemon]]></AuthorName>
+		<Bio><![CDATA[]]></Bio>
+		<Desc><![CDATA[A sample project you can modify. Or you can delete all the chapters, characters, etc, And start fresh.]]></Desc>
+		<FieldTitle1><![CDATA[]]></FieldTitle1>
+		<FieldTitle2><![CDATA[]]></FieldTitle2>
+		<FieldTitle3><![CDATA[]]></FieldTitle3>
+		<FieldTitle4><![CDATA[]]></FieldTitle4>
+		<LastFullBackup>2024-11-18</LastFullBackup>
+		<WordTarget>0</WordTarget>
+		<WordTargetStartDate>0001-01-01</WordTargetStartDate>
+		<WordTargetEndDate>0001-01-01</WordTargetEndDate>
+		<WordCountStart>0</WordCountStart>
+		<EndFrontMatterChID>0</EndFrontMatterChID>
+		<EndMiddleChID>0</EndMiddleChID>
+		<EndBeginningChID>0</EndBeginningChID>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDivider></LatexSceneDivider>
+		<HtmlSceneDivider></HtmlSceneDivider>
+		<HtmlEncoding></HtmlEncoding>
+		<HtmlUnicode>0</HtmlUnicode>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<MRUSpecificDate>0001-01-01</MRUSpecificDate>
+		<MRUSpecificTime>00:00:00</MRUSpecificTime>
+		<LastViewedScID>1</LastViewedScID>
+		<DeadlineDate1>0001-01-01</DeadlineDate1>
+		<DeadlineDate2>0001-01-01</DeadlineDate2>
+		<DeadlineDate3>0001-01-01</DeadlineDate3>
+		<DeadlineDate4>0001-01-01</DeadlineDate4>
+		<DeadlineDate5>0001-01-01</DeadlineDate5>
+		<DeadlineStartDate1>0001-01-01</DeadlineStartDate1>
+		<DeadlineStartDate2>0001-01-01</DeadlineStartDate2>
+		<DeadlineStartDate3>0001-01-01</DeadlineStartDate3>
+		<DeadlineStartDate4>0001-01-01</DeadlineStartDate4>
+		<DeadlineStartDate5>0001-01-01</DeadlineStartDate5>
+		<Fields>
+		</Fields>
+
+	</PROJECT>
+
+	<LOCATIONS>
+	</LOCATIONS>
+	<ITEMS>
+	</ITEMS>
+	<CHARACTERS>
+	</CHARACTERS>
+	<PROJECTNOTES>
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<SCENES>
+	<SCENE>
+		<ID>1</ID>
+		<Title><![CDATA[Scene One (Opening thought)]]></Title>
+		<Tags><![CDATA[inconcievable, life, existence, death, pain]]></Tags>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>1</BelongsToChID>
+		<Goal><![CDATA[unknown]]></Goal>
+		<Conflict><![CDATA[life]]></Conflict>
+		<Outcome><![CDATA[Inconcievable]]></Outcome>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<ReactionScene>-1</ReactionScene>
+		<Status>1</Status>
+		<WordCount>108</WordCount>
+		<LetterCount>595</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[[i]How do you describe pain without having felt pain?  Pain without description. Is no pain? No pain, does not exist. A swirling motion coming to pause, is this mean its aware, aware of what? What is awareness, we us me or you? Am I, or are we? Time ticking. Ticking or tapping? time is paradoxical an illusion, dissilusion, I need a conclusion? Speak with me, us, them they, what do I say, how to say.
+
+[/i]Voices, murmur, "Doctor?..," The doctor had no signs of hearing them. Still lost in thought pacing and muttering odd things. They watched from the corner of this small cell of a doctor's office.]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>2</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>57</WordCount>
+		<LetterCount>330</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[Question? question miss use, no yes maybe. Decision choice, must be. "Whats wrong? Doc..." said the individual pacing. To know is impossible, to understand is limited. They may survive, they have before, but they have not also. I know what has been but not what will be. I know the preferred outcome but not the definitive result.]]></SceneContent>
+	</SCENE>
+
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[Chapter 1]]></Title>
+		<Desc><![CDATA[Unknown beginings]]></Desc>
+		<SortOrder>1</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+		<Scenes>
+			<ScID>1</ScID>
+			<ScID>2</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2024-11-11</Date>
+		<Count>66</Count>
+		<TotalCount>66</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2024-11-12</Date>
+		<Count>123</Count>
+		<TotalCount>123</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2024-11-15</Date>
+		<Count>165</Count>
+		<TotalCount>165</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2024-11-18</Date>
+		<Count>165</Count>
+		<TotalCount>165</TotalCount>
+	</WC>
+
+	</WCLog>
+</YWRITER7>
