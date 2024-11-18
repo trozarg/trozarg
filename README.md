@@ -1,12 +1,7 @@
 ---
-noIndex: true
 icon: '1'
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
+noIndex: true
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -19,5 +14,5 @@ layout:
     visible: false
 ---
 
-# Untitled
+# Shika Book One
 

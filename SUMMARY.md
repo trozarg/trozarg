@@ -2,12 +2,12 @@
 
 * [Shika Book One](README.md)
 
-## Chapter One
+## Part I
 
-* [Chapter One](chapter-one/chapter-one.md)
-* [SceneOne](chapter-one/sceneone.md)
-* [SceneTwo](chapter-one/scenetwo.md)
-* [SceneThree](chapter-one/scenethree.md)
-* [SceneFour](chapter-one/scenefour.md)
-* [SceneFive](chapter-one/scenefive.md)
-* [SceneSix](chapter-one/scenesix.md)
+* [Chapter One](part-i/chapter-one.md)
+* [SceneOne](part-i/sceneone.md)
+* [SceneTwo](part-i/scenetwo.md)
+* [SceneThree](part-i/scenethree.md)
+* [SceneFour](part-i/scenefour.md)
+* [SceneFive](part-i/scenefive.md)
+* [SceneSix](part-i/scenesix.md)
