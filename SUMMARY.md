@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Title Page](README.md)
+* [Shika](README.md)
 
 ## Chapter One
 
