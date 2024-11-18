@@ -1,0 +1,3 @@
+# SceneSix
+
+“This is Squad Leader Ahru, we have arrived at the Human’s drop point.” Ahru said over comms. “We will do a survey of life, and clear the area of any hostiles. Be on guard. We are here to secure the area for the salvage team. Report any signs of life or hostility.” “Scan perimeter, then move in, meet in the center of radius. Again, scan perimeter rendezvous in center, anything of suspicion, movement, signal disturbance, even an instinct, report over comms immediately and stay put, squads rendezvous point will change to, reporting squad member’s location. Move out!” Squad Leader Ahru explained and commenced the mission.
